@@ -25,7 +25,7 @@
 }
 
 body {
-    background-color: #EAF3E6;
+    background-color: #F3EBCB;
 }
 
 #AdoptCatText {
@@ -72,6 +72,7 @@ body {
 
 
 #CatCareText {
+
     text-align: center;
     font-weight:normal;
     font-family: "Nunito";
@@ -79,6 +80,7 @@ body {
 }
 
 #CatBreedsText {
+
     text-align: center;
     font-weight:normal;
     font-family: "Nunito";
@@ -86,6 +88,7 @@ body {
 }
 
 #CatMoodsText {
+
     text-align: center;
     font-weight:normal;
     font-family: "Nunito";
@@ -93,10 +96,12 @@ body {
 }
 
 #CatCareTextInfo {
+
     font-family: "Fredoka"
 }
 
 #CatBreedsTextInfo {
+
     font-family: "Fredoka"
 }
 
