@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 #CatPaw {
     margin-top: -10px;
-    margin-left: 785px;
+    margin-left: 60vw;
     width: 40px;
     transform: rotate(30deg);
     position:relative;
