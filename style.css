@@ -95,16 +95,10 @@ body {
     font-weight: bold;
 }
 
-#CatCareTextInfo {
-
-    font-family: "Fredoka"
+.card {
+    font-family:"Nunito";
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding:10px;
 }
 
-#CatBreedsTextInfo {
-
-    font-family: "Fredoka"
-}
-
-#CatMoodsTextInfo {
-    font-family: "Fredoka"
-}
