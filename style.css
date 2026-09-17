@@ -17,6 +17,7 @@
 }
 
 #CatIntroText {
+    font-weight:600;
     font-size: 20px;
     max-width: 1000px;
     margin: 30px auto;
@@ -75,7 +76,6 @@ body {
 
 
 #CatCareText {
-
     text-align: center;
     font-weight:normal;
     font-family: "Nunito";
@@ -98,7 +98,11 @@ body {
     font-weight: bold;
 }
 
+.highlight {
+    font-weight:bold;
+}
 .card {
+    line-height:1.6;
     font-family:"Nunito";
     background-color: aliceblue;
     border-radius: 15px;
