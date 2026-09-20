@@ -109,3 +109,6 @@ body {
     padding:10px;
 }
 
+a:visited {
+  color: blue;
+}
