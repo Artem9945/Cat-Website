@@ -1,10 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 .catPawContainer {
     position:relative;
     text-align: center;
     transform: rotate(30deg);
     margin-left: 650px;
+}
+
+#Introduction {
+    font-size: 40px;
+    text-align: center;
+    font-family: "Quicksand";
+    font-weight:bolder;
 }
 
 #CatPawImage {
