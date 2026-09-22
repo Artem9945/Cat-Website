@@ -19,6 +19,17 @@
     width: 70px;
 }
 
+#CatPlayingImage {
+    width:150px;
+    margin-left:180px;
+    margin-top: -40px;
+}
+
+#CatToy {
+    margin-top:-100px;
+    width:200px;
+}
+
 #MainText {
     position:relative;
     text-align: center;
