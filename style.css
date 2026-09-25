@@ -19,17 +19,6 @@
     width: 70px;
 }
 
-#CatPlayingImage {
-    width:150px;
-    margin-left:180px;
-    margin-top: -40px;
-}
-
-#CatToy {
-    margin-top:-100px;
-    width:200px;
-}
-
 #MainText {
     position:relative;
     text-align: center;
@@ -100,7 +89,6 @@ body {
 
 #CatCareText {
     text-align: center;
-    font-weight:normal;
     font-family: "Nunito";
     font-weight: bold;
 }
@@ -108,7 +96,6 @@ body {
 #CatBreedsText {
 
     text-align: center;
-    font-weight:normal;
     font-family: "Nunito";
     font-weight: bold;
 }
@@ -116,7 +103,6 @@ body {
 #CatMoodsText {
 
     text-align: center;
-    font-weight:normal;
     font-family: "Nunito";
     font-weight: bold;
 }
